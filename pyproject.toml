@@ -1,7 +1,7 @@
 # TO JEST PLIK SCOOBENS'A
 [project]
 name = "Flask"
-version = "NAJNOWSZA"
+version = "1.122121.12"
 description = "A simple framework for building complex web applications."
 readme = "README.md"
 license = "BSD-3-Clause"
